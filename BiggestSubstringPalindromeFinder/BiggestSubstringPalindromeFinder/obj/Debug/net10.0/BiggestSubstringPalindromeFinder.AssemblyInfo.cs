@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiggestSubstringPalindromeFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86181d8f526413cadf95a505e0a32ed3a4a29cdb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08429c2ef4dee430fbeb470fe2ae4458d7b641a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiggestSubstringPalindromeFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiggestSubstringPalindromeFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
