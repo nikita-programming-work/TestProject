@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BiggestSubstringPalindromeFinder.Tests/BiggestSubstringPalindromeFinder.Tests.csproj" />
+  <Project Path="BiggestSubstringPalindromeFinder/BiggestSubstringPalindromeFinder.csproj" />
+</Solution>
